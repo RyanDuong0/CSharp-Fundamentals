@@ -19,3 +19,18 @@ The goal is to strengthen my understanding of core concepts and write clean, eff
 - C#
 - .NET SDK
 - Visual Studio / VS Code
+
+## How to run
+1. Install the latest .NET SDK
+2. Clone the repository
+   ```bash
+   git clone https://github.com/RyanDuong0/CSharp-Fundamentals
+   ```
+3. Navigate to the project directory e.g.
+   ```bash
+   cd CSharp-Fundamentals
+   ```
+4. Then run the project!
+   ```bash
+   dotnet run
+   ```
